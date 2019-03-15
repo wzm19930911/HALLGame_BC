@@ -1,0 +1,9 @@
+[{
+		"module": "Hg",
+		"path": "db://assets/Texture/Hg"
+	},
+	{
+		"module": "Hg",
+		"path": "db://assets/Scene/Hg"
+	}
+]
